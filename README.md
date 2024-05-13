@@ -84,17 +84,33 @@ The project encompasses a comprehensive analysis of energy consumption data, inc
 ## Challenges Faced:
 ## References:
 __1. Dataset__:
+
 Dataset is taken from kaggle website. [Kaggle link](https://www.kaggle.com/)
 
 __2. Libraries__:
+
 Libraries' explanation have been explained below in the form of table.
+__**__
 ##
 | Libraries | Description |
 | ------ | ----------- |
-| Pandas | used for data manipulation, cleaning, and analysis. It's utilized for reading the dataset from a CSV file, handling missing values, and performing various data preprocessing tasks. |
-| NumPy | provides support for numerical operations, array manipulation and it's used in conjunction with Pandas for efficient numerical computations and array operations. |
-| Matplotlib | used for creating visualizations such as scatter plots and histograms to explore the distribution and relationships within the dataset. |
-| Seaborn | provides a higher-level interface for creating statistical visualizations and it's used to generate more complex and informative plots, such as heatmaps and regression plots, which can aid in data exploration and analysis. |
-| Scikit-learn | employed for tasks such as scaling features, clustering analysis, feature selection, and model building (e.g., linear regression and KMeans clustering). |
-| Google Colab | used in this project as the execution environment for running the Python code, beneficial for machine learning tasks.|
-| TensorFlow | utilized for implementing and training feedforward neural networks (FNNs) to predict energy consumption patterns. |
+| Pandas | used for data manipulation, cleaning, and analysis. It's utilized for reading the dataset from a CSV file, handling missing values, and performing various data preprocessing tasks. __*import pandas as pd*__ |
+| NumPy | provides support for numerical operations, array manipulation and it's used in conjunction with Pandas for efficient numerical computations and array operations. __*import numpy as np*__|
+| Matplotlib | used for creating visualizations such as scatter plots and histograms to explore the distribution and relationships within the dataset. __*import matplotlib.pyplot as plt*__ |
+| Seaborn | provides a higher-level interface for creating statistical visualizations and it's used to generate more complex and informative plots, such as heatmaps and regression plots, which can aid in data exploration and analysis. __*import seaborn as sns*__ |
+| Scikit-learn | employed for tasks such as scaling features, clustering analysis, feature selection, and model building (e.g., linear regression and KMeans clustering). __*from scipy.stats import zscore*__|
+| Google Colab | used in this project as the execution environment for running the Python code, beneficial for machine learning tasks. __*from google.colab import files*__|
+| TensorFlow | utilized for implementing and training feedforward neural networks (FNNs) to predict energy consumption patterns. __*import tensorflow as tf*__ |
+
+__3. Algorithm__:
+
+We took help from __*"towards data science"*__ website for the elbow method of clustering that was issuing during the first evaluation. Uisng this, we were able to perform automatic clustering.
+Link to the website is: [__*Towards data science*__](https://towardsdatascience.com/)
+
+__4. Research Journals and Articles__:
+
+We read few articles that were very relevant to our project to understand the project structure.
+
+1. This article is from Science Direct [__*Science Direct*__ ](https://www.sciencedirect.com/)
+
+2. This report from springer website [__*Springer link*__](https://link.springer.com/)
