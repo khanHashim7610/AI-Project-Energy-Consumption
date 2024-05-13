@@ -1,1 +1,3 @@
-# AI-Project-Energy-Consumption
+# __Energy Consumption Analysis Project__
+## Project Description
+The project aims to analyze energy consumption data from a dataset named 'AIDataSetEnergyConsumption.csv'. It involves several steps, including data preprocessing, outlier detection, feature scaling, feature encoding, feature selection, and finally, model building and evaluation. The dataset includes features like building size, type, gross floor area and green mark status etc explained below. By accurately predicting energy usage patterns in buildings, the project seeks to enable informed decision-making for energy management and sustainability initiatives.
