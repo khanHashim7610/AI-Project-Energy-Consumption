@@ -82,10 +82,27 @@ __4. Model Building and Evaluation__:
 The project encompasses a comprehensive analysis of energy consumption data, including data preprocessing, feature engineering, model building, and evaluation. It leverages both traditional machine learning (linear regression) and deep learning (FNN) techniques to derive insights and make predictions regarding energy consumption. Additionally, the project emphasizes the importance of data visualization for better understanding and interpretation of results.
 
 ## Challenges Faced:
+__1. Dataset__:
+
+We could not find dataset that met the requirements as stated by our instructor for our project. Hence, a lot of modifications have to be made to set up the features that most closely meet the requirements.
+
+__2. Data Preprocessing__:
+
+While dealing with the dataset features, we removed the entire tuple that had its feature __*NA*__ value. This was a threat towards the efficiency of the model, Hence, the teacher asked us for another method i-e value replacement to usemean value of the column instead of deleting. This caused us a delay post mid1 evaluations.
+
+__3. Clustering__:
+
+We were performing static clustering by setting value to 3 ourselves. However, after discussion with the teacher, we were told to use automatic and dynamic clustering according to the dataset that we had absolute no idea of.
+
+__4. Feature Selection__:
+
+We had trouble selecting the most suitable feature selection even though target value was clear but to extract it from corelation analysis was troublesome most probably because of a presence of a possible outlier even after removing all from scotter-plot. It took days to remove it and select the features that include target value too.
+
+
 ## References:
 __1. Dataset__:
 
-Dataset is taken from kaggle website. [Kaggle link](https://www.kaggle.com/)
+Dataset is taken from kaggle website. [__*Kaggle link*__](https://www.kaggle.com/)
 
 __2. Libraries__:
 
@@ -111,6 +128,6 @@ __4. Research Journals and Articles__:
 
 We read few articles that were very relevant to our project to understand the project structure.
 
-1. This [*article*](https://www.sciencedirect.com/science/article/pii/S0743731518308773) is from Science Direct [__*Science Direct*__ ](https://www.sciencedirect.com/)
+1. This [__*article*__](https://www.sciencedirect.com/science/article/pii/S0743731518308773) is from Science Direct [__*Science Direct*__ ](https://www.sciencedirect.com/)
 
-2. This [*report*](https://link.springer.com/content/pdf/10.1007/978-3-030-13453-2_20.pdf?pdf=inline+link) from springer website [__*Springer link*__](https://link.springer.com/)
+2. This [__*report*__](https://link.springer.com/content/pdf/10.1007/978-3-030-13453-2_20.pdf?pdf=inline+link) from springer website [__*Springer link*__](https://link.springer.com/)
