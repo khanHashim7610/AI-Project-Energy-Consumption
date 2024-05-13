@@ -87,7 +87,13 @@ __4. Model Building and Evaluation__:
     ![6](https://github.com/Hannan-10/AI-Project-Energy-Consumption/assets/152228350/37191e63-2285-4c9e-9a60-997c81227e41)
 
 ## Summary:
-The project encompasses a comprehensive analysis of energy consumption data, including data preprocessing, feature engineering, model building, and evaluation. It leverages both traditional machine learning (linear regression) and deep learning (FNN) techniques to derive insights and make predictions regarding energy consumption. Additionally, the project emphasizes the importance of data visualization for better understanding and interpretation of results.
+The project encompasses a comprehensive analysis of energy consumption data, including data preprocessing, feature engineering, model building, and evaluation. It leverages both traditional machine learning (linear regression) and deep learning (FNN) techniques to derive insights and make predictions regarding energy consumption. Additionally, the project emphasizes the importance of data visualization for better understanding and interpretation of results that are written below:
+ + We used "simple Linear Regression Model", "FeedFoward Neural Network (FNN) with Relu" and "FeedFoward Neural Network (FNN) with Sigmoid".
+ + ![1](https://github.com/Hannan-10/AI-Project-Energy-Consumption/assets/162740629/7fb567ef-7c88-4528-baee-fa0dd6bab8a7)
+
+## Conclusion:
+  
+
 
 ## Challenges Faced:
 __1. Dataset__:
