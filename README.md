@@ -80,3 +80,21 @@ __4. Model Building and Evaluation__:
 
 ## Summary:
 The project encompasses a comprehensive analysis of energy consumption data, including data preprocessing, feature engineering, model building, and evaluation. It leverages both traditional machine learning (linear regression) and deep learning (FNN) techniques to derive insights and make predictions regarding energy consumption. Additionally, the project emphasizes the importance of data visualization for better understanding and interpretation of results.
+
+## Challenges Faced:
+## References:
+__1. Dataset__:
+Dataset is taken from kaggle website. [Kaggle link](https://www.kaggle.com/)
+
+__2. Libraries__:
+Libraries' explanation have been explained below in the form of table.
+##
+| Libraries | Description |
+| ------ | ----------- |
+| Pandas | used for data manipulation, cleaning, and analysis. It's utilized for reading the dataset from a CSV file, handling missing values, and performing various data preprocessing tasks. |
+| NumPy | provides support for numerical operations, array manipulation and it's used in conjunction with Pandas for efficient numerical computations and array operations. |
+| Matplotlib | used for creating visualizations such as scatter plots and histograms to explore the distribution and relationships within the dataset. |
+| Seaborn | provides a higher-level interface for creating statistical visualizations and it's used to generate more complex and informative plots, such as heatmaps and regression plots, which can aid in data exploration and analysis. |
+| Scikit-learn | employed for tasks such as scaling features, clustering analysis, feature selection, and model building (e.g., linear regression and KMeans clustering). |
+| Google Colab | used in this project as the execution environment for running the Python code, beneficial for machine learning tasks.|
+| TensorFlow | utilized for implementing and training feedforward neural networks (FNNs) to predict energy consumption patterns. |
