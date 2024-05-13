@@ -62,21 +62,29 @@ __6. Model Building and Evaluation__:
 ## Modules Description:
 __1. Data Preprocessing__:
   + Handling missing values and outliers.
+     ![1](https://github.com/Hannan-10/AI-Project-Energy-Consumption/assets/152228350/7b1afbb0-8db7-4026-8009-3fd8ebb51410)
   + Scaling numerical features.
+     ![2](https://github.com/Hannan-10/AI-Project-Energy-Consumption/assets/152228350/150e59f5-3ecc-434d-94d8-ba21d4899a5e)
   + Encoding categorical features.
-
+    
 __2. Clustering Analysis__:
   + Determining optimal clusters using the Elbow method.
   + Applying KMeans clustering to group similar data points.
+    ![c](https://github.com/Hannan-10/AI-Project-Energy-Consumption/assets/152228350/16562875-2f00-454a-b422-ad79c429a383)
+
 
 __3. Feature Selection__:
   + Identifying highly correlated features.
+    ![3](https://github.com/Hannan-10/AI-Project-Energy-Consumption/assets/152228350/c84b3d25-231c-4c4c-bac2-7e39043d208e)
   + Selecting relevant features for modeling.
 
 __4. Model Building and Evaluation__:
   + Constructing Linear Regression and FNN models.
+    ![4](https://github.com/Hannan-10/AI-Project-Energy-Consumption/assets/152228350/6aeb386f-4bf8-4d2b-82cf-8fd285e5bfe0)
   + Training and evaluating models using appropriate metrics.
+    ![5](https://github.com/Hannan-10/AI-Project-Energy-Consumption/assets/152228350/6d56227f-cba5-45e3-b526-bd0907d42233)
   + Visualizing model predictions and performance.
+    ![6](https://github.com/Hannan-10/AI-Project-Energy-Consumption/assets/152228350/37191e63-2285-4c9e-9a60-997c81227e41)
 
 ## Summary:
 The project encompasses a comprehensive analysis of energy consumption data, including data preprocessing, feature engineering, model building, and evaluation. It leverages both traditional machine learning (linear regression) and deep learning (FNN) techniques to derive insights and make predictions regarding energy consumption. Additionally, the project emphasizes the importance of data visualization for better understanding and interpretation of results.
@@ -93,6 +101,7 @@ While dealing with the dataset features, we removed the entire tuple that had it
 __3. Clustering__:
 
 We were performing static clustering by setting value to 3 ourselves. However, after discussion with the teacher, we were told to use automatic and dynamic clustering according to the dataset that we had absolute no idea of.
+
 
 __4. Feature Selection__:
 
@@ -131,3 +140,5 @@ We read few articles that were very relevant to our project to understand the pr
 1. This [__*article*__](https://www.sciencedirect.com/science/article/pii/S0743731518308773) is from Science Direct [__*Science Direct*__ ](https://www.sciencedirect.com/)
 
 2. This [__*report*__](https://link.springer.com/content/pdf/10.1007/978-3-030-13453-2_20.pdf?pdf=inline+link) from springer website [__*Springer link*__](https://link.springer.com/)
+
+
