@@ -90,7 +90,7 @@ Dataset is taken from kaggle website. [Kaggle link](https://www.kaggle.com/)
 __2. Libraries__:
 
 Libraries' explanation have been explained below in the form of table.
-__**__
+
 ##
 | Libraries | Description |
 | ------ | ----------- |
@@ -111,6 +111,6 @@ __4. Research Journals and Articles__:
 
 We read few articles that were very relevant to our project to understand the project structure.
 
-1. This article is from Science Direct [__*Science Direct*__ ](https://www.sciencedirect.com/)
+1. This [*article*](https://www.sciencedirect.com/science/article/pii/S0743731518308773) is from Science Direct [__*Science Direct*__ ](https://www.sciencedirect.com/)
 
-2. This report from springer website [__*Springer link*__](https://link.springer.com/)
+2. This [*report*](https://link.springer.com/content/pdf/10.1007/978-3-030-13453-2_20.pdf?pdf=inline+link) from springer website [__*Springer link*__](https://link.springer.com/)
