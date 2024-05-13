@@ -60,3 +60,23 @@ __6. Model Building and Evaluation__:
           - To prevent overfitting (as FNN model with L1 regularization) .
           - Model training, evaluation, and visualization are performed similarly to the previous FNN models.
 ## Modules Description:
+__1. Data Preprocessing__:
+  + Handling missing values and outliers.
+  + Scaling numerical features.
+  + Encoding categorical features.
+
+__2. Clustering Analysis__:
+  + Determining optimal clusters using the Elbow method.
+  + Applying KMeans clustering to group similar data points.
+
+__3. Feature Selection__:
+  + Identifying highly correlated features.
+  + Selecting relevant features for modeling.
+
+__4. Model Building and Evaluation__:
+  + Constructing Linear Regression and FNN models.
+  + Training and evaluating models using appropriate metrics.
+  + Visualizing model predictions and performance.
+
+## Summary:
+The project encompasses a comprehensive analysis of energy consumption data, including data preprocessing, feature engineering, model building, and evaluation. It leverages both traditional machine learning (linear regression) and deep learning (FNN) techniques to derive insights and make predictions regarding energy consumption. Additionally, the project emphasizes the importance of data visualization for better understanding and interpretation of results.
